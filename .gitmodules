@@ -7,3 +7,42 @@
 [submodule "aepsdk-assurance-ios"]
 	path = aepsdk-assurance-ios
 	url = https://github.com/adobe/aepsdk-assurance-ios
+[submodule "aepsdk-userprofile-ios"]
+	path = aepsdk-userprofile-ios
+	url = https://github.com/adobe/aepsdk-userprofile-ios.git
+[submodule "aepsdk-edgeidentity-ios"]
+	path = aepsdk-edgeidentity-ios
+	url = https://github.com/adobe/aepsdk-edgeidentity-ios.git
+[submodule "aepsdk-edgeconsent-ios"]
+	path = aepsdk-edgeconsent-ios
+	url = https://github.com/adobe/aepsdk-edgeconsent-ios.git
+[submodule "aepsdk-edgebridge-ios"]
+	path = aepsdk-edgebridge-ios
+	url = https://github.com/adobe/aepsdk-edgebridge-ios.git
+[submodule "aepsdk-messaging-ios"]
+	path = aepsdk-messaging-ios
+	url = https://github.com/adobe/aepsdk-messaging-ios.git
+[submodule "aepsdk-optimize-ios"]
+	path = aepsdk-optimize-ios
+	url = https://github.com/adobe/aepsdk-optimize-ios.git
+[submodule "aepsdk-places-ios"]
+	path = aepsdk-places-ios
+	url = https://github.com/adobe/aepsdk-places-ios.git
+[submodule "aepsdk-analytics-ios"]
+	path = aepsdk-analytics-ios
+	url = https://github.com/adobe/aepsdk-analytics-ios.git
+[submodule "aepsdk-media-ios"]
+	path = aepsdk-media-ios
+	url = https://github.com/adobe/aepsdk-media-ios.git
+[submodule "aepsdk-target-ios"]
+	path = aepsdk-target-ios
+	url = https://github.com/adobe/aepsdk-target-ios
+[submodule "aepsdk-campaign-ios"]
+	path = aepsdk-campaign-ios
+	url = https://github.com/adobe/aepsdk-campaign-ios.git
+[submodule "aepsdk-campaignclassic-ios"]
+	path = aepsdk-campaignclassic-ios
+	url = https://github.com/adobe/aepsdk-campaignclassic-ios.git
+[submodule "aepsdk-audience-ios"]
+	path = aepsdk-audience-ios
+	url = https://github.com/adobe/aepsdk-audience-ios.git
