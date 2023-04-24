@@ -93,7 +93,7 @@ let package = Package(
     .target(
       name: "AEPCampaignClassic",
       dependencies: ["AEPCore"],
-      path: "aepsdk-campaign-ios/AEPCampaignClassic/Sources"),
+      path: "aepsdk-campaignclassic-ios/AEPCampaignClassic/Sources"),
       // Edge
     .target(
       name: "AEPEdge",
