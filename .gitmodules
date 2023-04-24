@@ -1,0 +1,9 @@
+[submodule "aepsdk-core-ios"]
+	path = aepsdk-core-ios
+	url = https://github.com/adobe/aepsdk-core-ios
+[submodule "aepsdk-edge-ios"]
+	path = aepsdk-edge-ios
+	url = https://github.com/adobe/aepsdk-edge-ios
+[submodule "aepsdk-assurance-ios"]
+	path = aepsdk-assurance-ios
+	url = https://github.com/adobe/aepsdk-assurance-ios
